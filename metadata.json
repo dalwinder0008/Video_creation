@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Remaker & SEO Studio",
+  "description": "Production-ready full-stack studio to remake prompts and YouTube transcripts into animated visual scripts, orchestrate video synthesis pipelines, and generate viral YouTube SEO metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

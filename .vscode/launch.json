@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Full-Stack (npm run dev)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev"
+    },
+    {
+      "name": "Run Backend Only",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev:backend"
+    },
+    {
+      "name": "Run Frontend Only",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev:frontend"
+    }
+  ]
+}
