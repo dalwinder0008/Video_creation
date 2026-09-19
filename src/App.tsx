@@ -13,6 +13,7 @@ import { DeploymentGuideModal } from './components/DeploymentGuideModal.js';
 import { ArchitectureBentoModal } from './components/ArchitectureBentoModal.js';
 import { StatsCounter } from './components/ui/StatsCounter.js';
 import { SpotlightNavbar, NavItem } from './components/ui/SpotlightNavbar.js';
+import { MusicPlayer, MusicTrack } from './components/ui/MusicPlayer.js';
 
 import {
   CharacterIdentity,
